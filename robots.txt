@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taluskyw.github.io/sitemap.html.gz
+Sitemap: https://taluskyw.github.io/app/sitemap.html.gz
+Sitemap: https://taluskyw.github.io/assets/sitemap.html.gz
+Sitemap: https://taluskyw.github.io/css/sitemap.html.gz
+Sitemap: https://taluskyw.github.io/data/sitemap.html.gz
+Sitemap: https://taluskyw.github.io/includes/sitemap.html.gz
+Sitemap: https://taluskyw.github.io/item/sitemap.html.gz
+Sitemap: https://taluskyw.github.io/src/sitemap.html.gz
